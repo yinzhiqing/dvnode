@@ -1,1 +1,1 @@
-{"data":"GetResponse","last_update":1634112118,"value":"operators = [\"alice\", \"bob\"]\nowners = [\"carol\", \"dave\"]\ndiem_root = \"erin\"\ntreasury_compliance = \"fred\"\n"}
+{"data":"GetResponse","last_update":1634112489,"value":"operators = [\"alice\", \"bob\"]\nowners = [\"carol\", \"dave\"]\ndiem_root = \"erin\"\ntreasury_compliance = \"fred\"\n"}
